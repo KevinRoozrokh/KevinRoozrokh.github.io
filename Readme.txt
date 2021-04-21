@@ -1,0 +1,33 @@
+KevinRoozrokh.Github.io v1.04
+
+Readme file for:
+https://kevinroozrokh.github.io/
+
+This Github.io portfolio was created by Kevin Roozrokh.
+
+Github repository:
+https://github.com/KevinRoozrokh
+
+Blog:
+https://kevinroozrokh.com/
+
+Contact:
+Email: KevRooz@Outlook.com
+https://www.linkedin.com/in/kevin-roozrokh/
+
+Version notes//
+
+Version 1.00
+Added skills icons and contact form.
+
+Version 1.01
+Added project 1 - Google Cloud VM Wordpress in Ubuntu.
+
+Version 1.02
+Added project 2 - Twitter React JS Clone hosted on Firebase.
+
+Version 1.03
+Changed color scheme, added skill buttons, triangle social icons. 
+
+Version 1.04
+Added hover effects, changed banner, limited image size.
