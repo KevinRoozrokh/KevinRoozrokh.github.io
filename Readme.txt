@@ -1,4 +1,4 @@
-KevinRoozrokh.Github.io v1.05
+KevinRoozrokh.Github.io v1.06
 
 Readme file for:
 https://kevinroozrokh.github.io/
@@ -18,7 +18,7 @@ https://www.linkedin.com/in/kevin-roozrokh/
 Version notes//
 
 Version 1.00
-Added skills icons and contact form.
+Added skills icons and contact form. Added blog link.
 
 Version 1.01
 Added project 1 - Google Cloud VM Wordpress in Ubuntu.
@@ -34,3 +34,6 @@ Added hover effects, changed banner, limited image size.
 
 Version v1.05
 Changed banner. Fixed ul li expand issue. Fixed caption that won't fit.
+
+Version v1.06
+Added Covid-19 tracker project. 
