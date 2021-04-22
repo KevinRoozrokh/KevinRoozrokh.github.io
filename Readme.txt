@@ -1,4 +1,4 @@
-KevinRoozrokh.Github.io v1.04
+KevinRoozrokh.Github.io v1.05
 
 Readme file for:
 https://kevinroozrokh.github.io/
@@ -31,3 +31,6 @@ Changed color scheme, added skill buttons, triangle social icons.
 
 Version 1.04
 Added hover effects, changed banner, limited image size.
+
+Version v1.05
+Changed banner. Fixed ul li expand issue. Fixed caption that won't fit.
