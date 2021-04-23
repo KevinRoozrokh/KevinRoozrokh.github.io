@@ -36,4 +36,7 @@ Version v1.05
 Changed banner. Fixed ul li expand issue. Fixed caption that won't fit.
 
 Version v1.06
-Added Covid-19 tracker project. 
+Added Covid-19 tracker project.
+
+Version v1.07
+Added preview image & description for sharing links.
