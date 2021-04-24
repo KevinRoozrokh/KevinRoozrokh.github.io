@@ -1,4 +1,4 @@
-KevinRoozrokh.Github.io v1.07
+KevinRoozrokh.Github.io v1.09
 
 Readme file for:
 https://kevinroozrokh.github.io/
@@ -40,3 +40,9 @@ Added Covid-19 tracker project.
 
 Version v1.07
 Added preview image & description for sharing links.
+
+Version v1.08
+Added Robinhood clone project.
+
+Version v1.09
+Added Spotify clone project.
