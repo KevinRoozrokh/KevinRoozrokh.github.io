@@ -1,4 +1,4 @@
-KevinRoozrokh.Github.io v1.09
+KevinRoozrokh.Github.io v1.10
 
 Readme file for:
 https://kevinroozrokh.github.io/
@@ -46,3 +46,6 @@ Added Robinhood clone project.
 
 Version v1.09
 Added Spotify clone project.
+
+Version v1.10
+Added Amazon clone project.
