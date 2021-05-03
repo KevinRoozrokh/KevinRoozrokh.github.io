@@ -1,4 +1,4 @@
-KevinRoozrokh.Github.io v1.10
+KevinRoozrokh.Github.io v1.11
 
 Readme file for:
 https://kevinroozrokh.github.io/
@@ -49,3 +49,6 @@ Added Spotify clone project.
 
 Version v1.10
 Added Amazon clone project.
+
+Version v1.11
+Deployed updated versions of Amazon and Twitter. Fixed sidebar issue.
