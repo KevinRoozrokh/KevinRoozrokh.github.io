@@ -50,3 +50,6 @@ Added Amazon clone project.
 
 Version v1.11
 Deployed updated versions of Amazon and Twitter. Fixed sidebar issue.
+
+Version v1.16
+Many UI improvements. Remove deprecated projects. Added Signal Project.
