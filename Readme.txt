@@ -48,11 +48,11 @@ Added Spotify clone project.
 Version v1.10
 Added Amazon clone project.
 
-Version v1.11
-Deployed updated versions of Amazon and Twitter. Fixed sidebar issue.
+Version v1.11 - v1.15
+Deployed updated versions of Amazon and Twitter. Fixed sidebar issues. Many UI improvements
 
 Version v1.16
-UI improvements. Remove deprecated projects. Added Signal Project.
+Remove deprecated projects. Added Signal Project.
 
 Version v1.17
 Updated tech icons with most recent experience.
