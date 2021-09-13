@@ -1,5 +1,5 @@
 # KevinRoozrokh.github.io
-Kevin Roozrokh's `Coding Portfolio` v1.17
+Kevin Roozrokh's `Coding Portfolio` v1.18
 
 ---
 
@@ -66,3 +66,6 @@ Remove deprecated projects. Added Signal Project.
 
 Version v1.17
 Updated tech icons with most recent experience.
+
+Version v1.18
+Added Blockchain projects.
