@@ -25,19 +25,19 @@ Kevin's Social Media Links:
 ---
 Version notes//
 
-Version 1.00
+v1.00
 Added skills icons and contact form. Added blog link.
 
-Version 1.01
+v1.01
 Added project 1 - Google Cloud VM Wordpress in Ubuntu.
 
-1.02
+v1.02
 Added project 2 - Twitter React JS Clone hosted on Firebase.
 
-1.03
+v1.03
 Changed color scheme, added skill buttons, triangle social icons. 
 
-1.04
+v1.04
 Added hover effects, changed banner, limited image size.
 
 v1.05
