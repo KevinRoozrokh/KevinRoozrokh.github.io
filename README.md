@@ -67,8 +67,9 @@ Remove deprecated projects. Added Signal Project.
 v1.17
 Updated tech icons with most recent experience.
 
-v1.18
+v1.18-v1.19
 Added Blockchain projects.
 
-
+v1.20
+Added NFT projects.
 
