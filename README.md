@@ -1,5 +1,5 @@
 # KevinRoozrokh.github.io
-Kevin Roozrokh's `Coding Portfolio` v1.19
+Kevin Roozrokh's `Coding Portfolio` v1.2
 
 ---
 
