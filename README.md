@@ -1,5 +1,5 @@
 # KevinRoozrokh.github.io
-Kevin Roozrokh's `Coding Portfolio` v1.2
+Kevin Roozrokh's `Coding Portfolio` v1.3
 
 ---
 
@@ -72,4 +72,7 @@ Added Blockchain projects.
 
 v1.20
 Added NFT projects.
+
+v1.30
+Removed dated projects, added ChatGPT // DALL-E and Ethereum token minter projects.
 
