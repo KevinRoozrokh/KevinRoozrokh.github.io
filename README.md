@@ -1,5 +1,5 @@
 # KevinRoozrokh.github.io
-Kevin Roozrokh's `Coding Portfolio` v1.3
+Kevin Roozrokh's `Coding Portfolio` v1.31
 
 ---
 
@@ -9,7 +9,7 @@ Portfolio: https://kevinroozrokh.github.io/
 
 Github: https://github.com/KevinRoozrokh
 
-Email: KevRooz@Outlook.com
+Email: RoozrokhK@gmail.com
 
 ---
 Kevin's Social Media Links:
@@ -19,8 +19,6 @@ Kevin's Social Media Links:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-darkblue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-roozrokh/)
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/kevinkayvan/)
 [![Instagram](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/donkayvan/)
-[![Twitter](https://img.shields.io/badge/-Twitter-teal?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/kevinkayvan)
-[![Reddit](https://img.shields.io/badge/-reddit-orange?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/KevinKayvan)
 
 ---
 Version notes//
@@ -75,4 +73,7 @@ Added NFT projects.
 
 v1.30
 Removed dated projects, added ChatGPT // DALL-E and Ethereum token minter projects.
+
+v1.31
+Updated skills and info for 2025.
 
