@@ -5,7 +5,9 @@ Kevin Roozrokh's `Coding Portfolio` v1.31
 
 Coded by `Kevin Roozrokh`.
 
-Portfolio: https://kevinroozrokh.github.io/
+New Coding Portfolio: https://kevinroozrokh.com/ (2025)
+
+Old Portfolio: https://kevinroozrokh.github.io/ (Last update, 2023)
 
 Github: https://github.com/KevinRoozrokh
 
@@ -76,4 +78,5 @@ Removed dated projects, added ChatGPT // DALL-E and Ethereum token minter projec
 
 v1.31
 Updated skills and info for 2025.
+
 
